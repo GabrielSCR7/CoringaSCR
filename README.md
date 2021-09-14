@@ -1,9 +1,9 @@
 ### Scripter 👋
 
  <div>
-  <a href="https://github.com/CoringaSCR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CoringaSCR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoringaSCR&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/GabrielSCR">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSCR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSCR&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
  <div style="display: inline_block"><br>
